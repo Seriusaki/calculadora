@@ -1,0 +1,21 @@
+.container
+{
+    margin-top:auto;
+}
+
+.cuadro
+{
+    padding:0px;
+    
+}
+
+.numeros
+{
+    text-align:right;
+    padding:0px;
+}
+
+.resultado
+{
+    text-align:right;
+}
